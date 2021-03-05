@@ -38,7 +38,7 @@ Feel free to add your country to the list!
 
 | Name (w/link)     | Provider, date   | Resolution (meters)  | Coverage  | Quality   | Size   | Download tips/links   | Notes        |
 | ------------------|------------------|----------------------|-----------|-----------|--------|-----------------------|--------------|
-| [NASADEM](https://earthdata.nasa.gov/esds/competitive-programs/measures/nasadem) | NASA, ~2020   | 30-50  | 60° N - 56° S (~80% of landmass) | medium  | ~100 GB  | [Download NASADEM](worldwide/nasadem.dem)  | NASADEM is reprocessed SRTM data, with some gaps filled and optimizations applied. Still not great, but one of the best resources with worldwide coverage.   |
+| [NASADEM](https://earthdata.nasa.gov/esds/competitive-programs/measures/nasadem) | NASA, ~2020   | 30-50  | 60° N - 56° S (~80% of landmass) | medium  | ~100 GB  | [Download NASADEM](worldwide/nasadem.md)  | NASADEM is reprocessed SRTM data, with some gaps filled and optimizations applied. Still not great, but one of the best resources with worldwide coverage.   |
 
 
 ### Country specific resources
