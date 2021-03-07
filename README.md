@@ -38,6 +38,7 @@ Feel free to add your country to the list!
 
 | Name (w/link)     | Provider, date   | Resolution (meters)  | Coverage  | Quality   | Fromat & Size   | Download tips/links   | Notes        |
 | ------------------|------------------|----------------------|-----------|-----------|--------|-----------------------|--------------|
+| [ALOS World 3D](https://www.eorc.jaxa.jp/ALOS/en/aw3d/index_e.htm) | JAXA, (data: 2006-2011, processing: -2021) | 30  | 82° N - 82° S (?)   | ?   | GeoTiff, 140 GB   | [Download AW3D](worldwide/jaxa-aw3d.md) |  This is presumably the newest, globally available DSM which is freely available   |
 | [NASADEM](https://earthdata.nasa.gov/esds/competitive-programs/measures/nasadem) | NASA, (data: 2000, reprocessing: 2020)   | 30-50  | 60° N - 56° S (~80% of landmass) | medium  | GeoTiff, ~100 GB  | [Download NASADEM](worldwide/nasadem.md)  | NASADEM is reprocessed SRTM data, with some gaps filled and optimizations applied. Still not great, but one of the best resources with worldwide coverage.   |
 
 ### Large regions (e.g. continents)
